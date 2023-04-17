@@ -1,0 +1,15 @@
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.csproj.AssemblyReference.cache
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.AssemblyInfoInputs.cache
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.AssemblyInfo.cs
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.csproj.CoreCompileInputs.cache
+C:\Users\timot\GC\C# Repositories\StudentDataBase\bin\Debug\net6.0\StudentDataBase.exe
+C:\Users\timot\GC\C# Repositories\StudentDataBase\bin\Debug\net6.0\StudentDataBase.deps.json
+C:\Users\timot\GC\C# Repositories\StudentDataBase\bin\Debug\net6.0\StudentDataBase.runtimeconfig.json
+C:\Users\timot\GC\C# Repositories\StudentDataBase\bin\Debug\net6.0\StudentDataBase.dll
+C:\Users\timot\GC\C# Repositories\StudentDataBase\bin\Debug\net6.0\StudentDataBase.pdb
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.dll
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\refint\StudentDataBase.dll
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.pdb
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\StudentDataBase.genruntimeconfig.cache
+C:\Users\timot\GC\C# Repositories\StudentDataBase\obj\Debug\net6.0\ref\StudentDataBase.dll
